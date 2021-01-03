@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<! -  ⁄œÌ· «·„⁄—› ->
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "cn.yogeek.flappybird"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+ <! - «”„ «· ÿ»Ìﬁ ->
+     <name> hummodi @       </name>
+ <! - Ê’› APP ->
+  <description>
+             Õ„ÊœÌ @      
+  </description>
+ <! - „ƒ·› «· ÿ»Ìﬁ ->
+  <author href="https://edu.yogeek.cn" email="50599476@qq.com">
+             › Ï €—Ì» «·√ÿÊ«—
+  </author>
+ <! - ’Ê—… APP ->
+  <icon src='ico.png' />
+ 
+</widget>
